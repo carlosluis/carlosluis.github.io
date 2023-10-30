@@ -23,7 +23,7 @@ Work experience
 * **Bosch Center for Artificial Intelligence** -- Apr. 2021, Ongoing
   * Position: PhD Candidate
   * Supervisors: [Dr. Felix Berkenkamp](https://berkenkamp.me/){:target="_blank"}, [Dr. Julia Vinogradska](https://scholar.google.de/citations?user=leAQsAgAAAAJ&hl=de){:target="_blank"} and [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters){:target="_blank"} (TU Darmstadt)
-  * Research on safe and efficient model-based reinforcement learning
+  * Research on uncertainty modelling in model-based reinforcement learning
 
 * **Amazon Prime Air** -- Oct. 2019, Mar. 2021
   * Position: Software Development Engineer
@@ -39,10 +39,6 @@ Work experience
 * **Institute for Aerospace Studies - University of Toronto** -- Sep. 2017, Dec. 2018
   * Position: Teaching Assistant
   * Marked homeworks and exams for two undergrad courses: Mathematics for Robotics (ROB310) and Robotics (AER525)
-
-* **Alter-Info**
-  * Position: Development Engineer
-  * Developed a testbench software in LabVIEW for a submarine's power generation control system
 
 * **Mobile Robotics & Autonomous Systems Lab - Polytechnique Montreal** -- Sep. 2015, Aug. 2016
   * Position: Reserch Intern
