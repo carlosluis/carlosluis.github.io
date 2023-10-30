@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-A complete version of my CV can be downloaded [here]( {{ site.baseurl }}/files/CV_Apr_2021.pdf){:target="_blank"}.
+A complete version of my CV can be downloaded [here]( {{ site.baseurl
+}}/files/CV.pdf){:target="_blank"}.
 
 Education
 ======
