@@ -12,6 +12,9 @@ Scholar](https://scholar.google.com/citations?user=99RVcu0AAAAJ&hl=en){:target="
 profile.
 
 <div class="publications">
+<h1>2024</h1>
+{% bibliography --query @*[year=2024] %}
+
 <h1>2023</h1>
 {% bibliography --query @*[year=2023] %}
 
