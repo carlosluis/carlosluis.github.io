@@ -14,16 +14,21 @@ A complete version of my CV can be downloaded [here]( {{ site.baseurl
 
 Education
 ======
-* Ph.D. in Artificial Intelligence, Technische Universität Darmstadt, 2024
-* M.Sc. in Aerospace Engineering (Robotics), University of Toronto, 2019
+* Ph.D. in Computer Science, Technical University of Darmstadt, 2024
+* M.Sc. in Robotics, University of Toronto, 2019
 * B.Sc. in Electronics Engineering, University Simon Bolivar, 2017
 
 Work experience
 ======
-* **Bosch Center for Artificial Intelligence** -- Apr. 2021, Ongoing
+* **Sony AI** -- Oct. 2024, Apr. 2025
+  * Position: Game AI Intern
+  * Supervisors: [James MacGlashan](https://ai.sony/people/James-MacGlashan/){:target="_blank"} and [Kevin Waugh](https://scholar.google.com/citations?user=l5ryKEkAAAAJ&hl=en){:target="_blank"}
+  * Research on plasticity loss in the context of Reinforcement Learning for large-scale
+  videogames
+* **Bosch Center for Artificial Intelligence** -- Apr. 2021, Sep. 2024
   * Position: PhD Candidate
-  * Supervisors: [Dr. Felix Berkenkamp](https://berkenkamp.me/){:target="_blank"}, [Dr. Julia Vinogradska](https://scholar.google.de/citations?user=leAQsAgAAAAJ&hl=de){:target="_blank"} and [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters){:target="_blank"} (TU Darmstadt)
-  * Research on uncertainty modelling in model-based reinforcement learning
+  * Supervisors: [Felix Berkenkamp](https://berkenkamp.me/){:target="_blank"}, [Julia Vinogradska](https://scholar.google.de/citations?user=leAQsAgAAAAJ&hl=de){:target="_blank"} and [Prof. Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters){:target="_blank"} (TU Darmstadt)
+  * Research on uncertainty representations in Reinforcement Learning
 
 * **Amazon Prime Air** -- Oct. 2019, Mar. 2021
   * Position: Software Development Engineer

@@ -110,8 +110,8 @@ analytics:
 # Site Author
 author:
   name             : "Carlos E. Luis"
-  avatar           : "head-picture.jpg"
-  bio              : "Robotics 🤖, AI 🧠 & more"
+  avatar           : "badge.png"
+  bio              : "AI 🧠 & Robotics 🤖"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

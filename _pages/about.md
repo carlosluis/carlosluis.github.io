@@ -11,10 +11,11 @@ redirect_from:
 {% include base_path %} 
 
 I am a Game AI intern at [Sony AI](https://ai.sony/){:target="_blank"}, working on
-applying reinforcement learning in videogames. Previously, I was a PhD Candidate at the
+Reinforcement Learning for large-scale videogames. I completed my PhD in 2024 at the
+Technical University of Darmstadt in collaboration with the
 [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/){:target="_blank"}
-(BCAI), working on uncertainty modelling in reinforcement learning. The goal of my
-research is to enable real-world agents that efficiently learn from experience.
+(BCAI). The goal of my research is to enable real-world agents that efficiently learn
+from experience.
 
 Before starting my PhD, I worked as a Software Development Engineer at Amazon in Paris,
 France. I was part of the large-scale drone delivery project known as Amazon Prime Air,
